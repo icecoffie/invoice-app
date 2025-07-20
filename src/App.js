@@ -696,7 +696,7 @@ function App() {
       <footer className="mt-8 py-6 bg-gray-200 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-center rounded-lg shadow-inner hide-on-print">
         <p className="mb-4">&copy; {new Date().getFullYear()} Invoice Generator. Made by Matrix Sync.</p>
         <div className="flex justify-center space-x-6">
-          <a href="https://instagram.com/msync.matrix" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-200" aria-label="Instagram">
+          <a href="https://instagram.com/msync.tech" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-200" aria-label="Instagram">
             <InstagramIcon />
           </a>
           <a href="https://x.com/msyncq" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-200" aria-label="X (Twitter)">
