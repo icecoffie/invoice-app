@@ -706,7 +706,7 @@ function App() {
             <GithubIcon />
           </a>
         </div>
-        <p className="mt-4 text-sm">Visit our website: <a href="https://msync.univer.se" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">msync.univer.se</a></p>
+        <p className="mt-4 text-sm">Visit our website: <a href="https://tech.msync.my.id" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">msync.tech</a></p>
       </footer>
     </div>
   );
